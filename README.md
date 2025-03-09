@@ -38,16 +38,16 @@ The Support group can be reached out to at [Boxman Support](https://t.me/Boxmans
 *Enjoy!*
 
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [Yuii Chan Club](https://t.me/yuiichansupport)  
+For queries or any issues regarding the bot please open an issue ticket or visit us at [BoxMan Support](https://t.me/boxmansupoort)  
 
 ## Credits
 The bot is based of on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
 This repo was just reamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
 
-Should any be missing kindly let us know at [Yuii Chan Club](https://t.me/yuiichansupport) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [Box Man Support](https://t.me/boxmansupport) or simply submit a pull request on the readme.
 
 
 -------------------------------------------------------------------------------------
 
-*Yui is free and open source software and supports the right to read, distribute and repair.*
+*boxman is free and open source software and supports the right to read, distribute and repair.*
