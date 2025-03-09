@@ -1,5 +1,5 @@
-![YuiiChan](https://telegra.ph/file/69a84b4548087b06afef4.jpg)
-# Yui-Chan // @YuiiChanBot
+![BoxMan](https://i.seadn.io/gae/SwvYM2wvu_V3RN8rrBCPIaBFxUf6ViCFunByQQbO301kmn2GrEyRpBQyletoTUrkq1zyr0FUgJwdg9J5cC-Ragd-Kr-L8_ci-Px8?auto=format&dpr=1&w=1000)
+# Yui-Chan // @BoxGuardman_bot
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Dank-del/)</br>
@@ -15,11 +15,11 @@
 
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
-Originally a marie fork - Yui has evolved further and was built to be more useful for Anime Chats.
+Originally a marie fork - BoxMan has evolved further and was built to be more useful for Anime Chats.
 
-Can be found on telegram as [Yuii-Chan](https://t.me/YuiiChanBot).
+Can be found on telegram as [BoxMan](https://t.me/BoxGuardman_bot).
 
-The Support group can be reached out to at [Yuii Chan Club](https://t.me/yuiichansupport), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
+The Support group can be reached out to at [Boxman Support](https://t.me/Boxmansupport), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
 
 
 
@@ -28,8 +28,8 @@ The Support group can be reached out to at [Yuii Chan Club](https://t.me/yuiicha
 
 # How to setup
 
-- `git clone https://github.com/rshero/YuiiChan`
-- `cd YuiiChan`
+- `git clone https://github.com/dragonzords/Box-Man`
+- `cd Box-Man`
 - `cp sample_config.ini config.ini`
 - *Fill in all the vars*
 - `pip3 install -U -r requirements.txt`
