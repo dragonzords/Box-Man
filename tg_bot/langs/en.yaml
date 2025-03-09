@@ -16,7 +16,7 @@ pm_start_text: |
 grp_start_text: "Well I'm alive!"
 
 pm_help_text: |
-   Hello there! My name is *Yuii*.*.
+   Hello there! My name is *BoxMan*.*.
    I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of
    the things I can help you with.
    *Main* commands available:
@@ -28,7 +28,7 @@ pm_help_text: |
       - in a group: will redirect you to pm, with all that chat's settings.
     Click on the buttons below to get documentation about specific modules!
 
-add_bot_to_group_btn: "Add Yuii"
+add_bot_to_group_btn: "Add BoxMan"
 support_chat_link_btn: "Support"
 updates_channel_link_btn: "Updates"
 src_btn: "Source code"
@@ -422,7 +422,7 @@ nation_help: |
       - /tigerlist - Lists all TIGERs Users.
       - /whitelistlist - Lists all WHITELIST Users.
       Note: These commands list users with special bot priveleges and can only be used by them.
-      You can visit @yuiichansupport to query more about these.
+      You can visit @boxmansupport to query more about these.
 
 nlp_help: |
 
