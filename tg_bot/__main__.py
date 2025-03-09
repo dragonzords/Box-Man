@@ -52,7 +52,7 @@ from tg_bot.modules.language import gs
 
 PM_START_TEXT = """
 Hi {}, my name is {}!
-I am an Anime themed group management bot with some fun extras [;)](https://telegra.ph/file/095d7e696096e21b06447.jpg)
+I am an Anime themed group management bot with some fun extras [;)](https://i.seadn.io/gae/SwvYM2wvu_V3RN8rrBCPIaBFxUf6ViCFunByQQbO301kmn2GrEyRpBQyletoTUrkq1zyr0FUgJwdg9J5cC-Ragd-Kr-L8_ci-Px8?auto=format&dpr=1&w=1000)
 
 You can find the list of available commands with /help.
 """
@@ -60,7 +60,7 @@ You can find the list of available commands with /help.
 HELP_STRINGS = """
 Hey there! My name is *{}*.
 I'll be at your service take a look below to know how to use me.
-If you have any questions on how to use me, head over to @YuiiChanSupport
+If you have any questions on how to use me, head over to @BoxManSupport
 *Main* commands available:
  • /start: start the bot
  • /help: PM's you this message.
@@ -77,7 +77,7 @@ And the following:
 )
 
 
-Yuii_IMG = "https://telegra.ph/file/145c818a6b4e5bc92765d.jpg"
+Yuii_IMG = "https://i.seadn.io/gae/SwvYM2wvu_V3RN8rrBCPIaBFxUf6ViCFunByQQbO301kmn2GrEyRpBQyletoTUrkq1zyr0FUgJwdg9J5cC-Ragd-Kr-L8_ci-Px8?auto=format&dpr=1&w=1000"
 
 
 IMPORTED = {}
@@ -227,7 +227,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text=gs(chat.id, "src_btn"),
-                                url="https://github.com/rshero/YuiiChan",
+                                url="https://rb.gy/pha7jy",
                             ),
                             InlineKeyboardButton(
                                 text="Try inline mode",
@@ -237,7 +237,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text=gs(chat.id, "support_chat_link_btn"),
-                                url=f"https://t.me/yuiichansupport",
+                                url=f"https://t.me/weebsgumi",
                             ),
                         ],
                     ]
